@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Sofia",
+            "email": "sofia@fiap.com.br",
+            "senha": 1234
+        },
+        {
+            "id": 2,
+            "nome": "Professor",
+            "email": "professor@fiap.com.br",
+            "senha": "teste123"
+        }
+    ]
+}
